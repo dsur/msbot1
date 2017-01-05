@@ -1,3 +1,5 @@
+// https://blogs.msdn.microsoft.com/sarahsays/2016/06/01/microsoft-bot-framework-part-1/
+//
 // Add your requirements
 var restify = require('restify'); 
 var builder = require('botbuilder'); 
